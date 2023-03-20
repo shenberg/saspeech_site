@@ -107,66 +107,10 @@ Link to dataset coming soon.
   <tbody>
     <tr>
       <td><audio id="audio-small" controls>
-    <source src="wavs/gt/Live_Relocation_0012.wav" type="audio/wav">
+    <source src="wavs/gt/Aharon Fogel_0002.wav" type="audio/wav">
 </audio></td>
       <td><audio id="audio-small" controls>
-    <source src="wavs/tts_paper/065.wav" type="audio/wav">
-</audio></td>
-    </tr>
-    <tr>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/gt/Hashlama111_0004.wav" type="audio/wav">
-</audio></td>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/tts_paper/041.wav" type="audio/wav">
-</audio></td>
-    </tr>
-    <tr>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/gt/Stock Market_0049.wav" type="audio/wav">
-</audio></td>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/tts_paper/096.wav" type="audio/wav">
-</audio></td>
-    </tr>
-    <tr>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/gt/Corona12_0022.wav" type="audio/wav">
-</audio></td>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/tts_paper/018.wav" type="audio/wav">
-</audio></td>
-    </tr>
-    <tr>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/gt/Prisons_0151.wav" type="audio/wav">
-</audio></td>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/tts_paper/084.wav" type="audio/wav">
-</audio></td>
-    </tr>
-    <tr>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/gt/Putin_0026.wav" type="audio/wav">
-</audio></td>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/tts_paper/086.wav" type="audio/wav">
-</audio></td>
-    </tr>
-    <tr>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/gt/Lod_0010.wav" type="audio/wav">
-</audio></td>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/tts_paper/067.wav" type="audio/wav">
-</audio></td>
-    </tr>
-    <tr>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/gt/Hashlama116_0024.wav" type="audio/wav">
-</audio></td>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/tts_paper/043.wav" type="audio/wav">
+    <source src="wavs/tts_paper/003.wav" type="audio/wav">
 </audio></td>
     </tr>
     <tr>
@@ -179,10 +123,154 @@ Link to dataset coming soon.
     </tr>
     <tr>
       <td><audio id="audio-small" controls>
-    <source src="wavs/gt/4000_1_0004.wav" type="audio/wav">
+    <source src="wavs/gt/Corona1_0031.wav" type="audio/wav">
 </audio></td>
       <td><audio id="audio-small" controls>
-    <source src="wavs/tts_paper/000.wav" type="audio/wav">
+    <source src="wavs/tts_paper/014.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Corona1_0103.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/015.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Corona4_0007.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/021.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Credit Rating_0006.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/024.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Electricity_0001.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/026.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Gedera_0019.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/030.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Hashlama112_0024.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/042.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Hashlama117_0009.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/044.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Hedva_0035.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/057.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Hungary1_0068.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/060.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Lod_0053.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/069.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Lod_0065.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/070.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Lod_0069.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/071.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Meat_0039.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/072.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Meat_0089.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/073.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Mom3_0007.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/078.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Robo Shaul 1_0017.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/088.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Robo Shaul 1_0065.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/090.wav" type="audio/wav">
+</audio></td>
+    </tr>
+    <tr>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/gt/Robo Shaul 2_0040.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_paper/092.wav" type="audio/wav">
 </audio></td>
     </tr>
   </tbody>
