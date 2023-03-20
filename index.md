@@ -111,15 +111,6 @@ Link to dataset coming soon.
     <tr>
       <th>1</th>
       <td><audio id="audio-small" controls>
-    <source src="wavs/gt/Aharon Fogel_0002.wav" type="audio/wav">
-</audio></td>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/tts_paper/003.wav" type="audio/wav">
-</audio></td>
-    </tr>
-    <tr>
-      <th>2</th>
-      <td><audio id="audio-small" controls>
     <source src="wavs/gt/Annexation_0048.wav" type="audio/wav">
 </audio></td>
       <td><audio id="audio-small" controls>
@@ -127,7 +118,7 @@ Link to dataset coming soon.
 </audio></td>
     </tr>
     <tr>
-      <th>3</th>
+      <th>2</th>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Corona1_0031.wav" type="audio/wav">
 </audio></td>
@@ -136,7 +127,7 @@ Link to dataset coming soon.
 </audio></td>
     </tr>
     <tr>
-      <th>4</th>
+      <th>3</th>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Corona1_0103.wav" type="audio/wav">
 </audio></td>
@@ -145,7 +136,7 @@ Link to dataset coming soon.
 </audio></td>
     </tr>
     <tr>
-      <th>5</th>
+      <th>4</th>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Corona4_0007.wav" type="audio/wav">
 </audio></td>
@@ -154,7 +145,7 @@ Link to dataset coming soon.
 </audio></td>
     </tr>
     <tr>
-      <th>6</th>
+      <th>5</th>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Credit Rating_0006.wav" type="audio/wav">
 </audio></td>
@@ -163,7 +154,7 @@ Link to dataset coming soon.
 </audio></td>
     </tr>
     <tr>
-      <th>7</th>
+      <th>6</th>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Electricity_0001.wav" type="audio/wav">
 </audio></td>
@@ -172,7 +163,7 @@ Link to dataset coming soon.
 </audio></td>
     </tr>
     <tr>
-      <th>8</th>
+      <th>7</th>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Gedera_0019.wav" type="audio/wav">
 </audio></td>
@@ -181,7 +172,7 @@ Link to dataset coming soon.
 </audio></td>
     </tr>
     <tr>
-      <th>9</th>
+      <th>8</th>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Hashlama112_0024.wav" type="audio/wav">
 </audio></td>
@@ -190,7 +181,7 @@ Link to dataset coming soon.
 </audio></td>
     </tr>
     <tr>
-      <th>10</th>
+      <th>9</th>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Hashlama117_0009.wav" type="audio/wav">
 </audio></td>
@@ -199,16 +190,7 @@ Link to dataset coming soon.
 </audio></td>
     </tr>
     <tr>
-      <th>11</th>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/gt/Hedva_0035.wav" type="audio/wav">
-</audio></td>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/tts_paper/057.wav" type="audio/wav">
-</audio></td>
-    </tr>
-    <tr>
-      <th>12</th>
+      <th>10</th>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Hungary1_0068.wav" type="audio/wav">
 </audio></td>
@@ -217,7 +199,7 @@ Link to dataset coming soon.
 </audio></td>
     </tr>
     <tr>
-      <th>13</th>
+      <th>11</th>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Lod_0053.wav" type="audio/wav">
 </audio></td>
@@ -226,7 +208,7 @@ Link to dataset coming soon.
 </audio></td>
     </tr>
     <tr>
-      <th>14</th>
+      <th>12</th>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Lod_0065.wav" type="audio/wav">
 </audio></td>
@@ -235,7 +217,7 @@ Link to dataset coming soon.
 </audio></td>
     </tr>
     <tr>
-      <th>15</th>
+      <th>13</th>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Lod_0069.wav" type="audio/wav">
 </audio></td>
@@ -244,7 +226,7 @@ Link to dataset coming soon.
 </audio></td>
     </tr>
     <tr>
-      <th>16</th>
+      <th>14</th>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Meat_0039.wav" type="audio/wav">
 </audio></td>
@@ -253,7 +235,7 @@ Link to dataset coming soon.
 </audio></td>
     </tr>
     <tr>
-      <th>17</th>
+      <th>15</th>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Meat_0089.wav" type="audio/wav">
 </audio></td>
@@ -262,7 +244,7 @@ Link to dataset coming soon.
 </audio></td>
     </tr>
     <tr>
-      <th>18</th>
+      <th>16</th>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Mom3_0007.wav" type="audio/wav">
 </audio></td>
@@ -271,16 +253,7 @@ Link to dataset coming soon.
 </audio></td>
     </tr>
     <tr>
-      <th>19</th>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/gt/Robo Shaul 1_0017.wav" type="audio/wav">
-</audio></td>
-      <td><audio id="audio-small" controls>
-    <source src="wavs/tts_paper/088.wav" type="audio/wav">
-</audio></td>
-    </tr>
-    <tr>
-      <th>20</th>
+      <th>17</th>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Robo Shaul 1_0065.wav" type="audio/wav">
 </audio></td>
@@ -289,7 +262,7 @@ Link to dataset coming soon.
 </audio></td>
     </tr>
     <tr>
-      <th>21</th>
+      <th>18</th>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Robo Shaul 2_0040.wav" type="audio/wav">
 </audio></td>
