@@ -105,6 +105,7 @@ Link to dataset coming soon.
       <th></th>
       <th>Original</th>
       <th>OverFlow (7350 steps) + HiFi-GAN</th>
+      <th>OverFlow (more training) + HiFi-GAN</th>
     </tr>
   </thead>
   <tbody>
@@ -116,6 +117,9 @@ Link to dataset coming soon.
       <td><audio id="audio-small" controls>
     <source src="wavs/tts_paper/078.wav" type="audio/wav">
 </audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_model2/model_2_Mom3_0007.wav" type="audio/wav">
+</audio></td>
     </tr>
     <tr>
       <th>2</th>
@@ -124,6 +128,9 @@ Link to dataset coming soon.
 </audio></td>
       <td><audio id="audio-small" controls>
     <source src="wavs/tts_paper/073.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_model2/model_2_Meat_0089.wav" type="audio/wav">
 </audio></td>
     </tr>
     <tr>
@@ -134,6 +141,9 @@ Link to dataset coming soon.
       <td><audio id="audio-small" controls>
     <source src="wavs/tts_paper/003.wav" type="audio/wav">
 </audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_model2/model_2_Aharon Fogel_0002.wav" type="audio/wav">
+</audio></td>
     </tr>
     <tr>
       <th>4</th>
@@ -142,6 +152,9 @@ Link to dataset coming soon.
 </audio></td>
       <td><audio id="audio-small" controls>
     <source src="wavs/tts_paper/021.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_model2/model_2_Corona4_0007.wav" type="audio/wav">
 </audio></td>
     </tr>
     <tr>
@@ -152,6 +165,9 @@ Link to dataset coming soon.
       <td><audio id="audio-small" controls>
     <source src="wavs/tts_paper/024.wav" type="audio/wav">
 </audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_model2/model_2_Credit Rating_0006.wav" type="audio/wav">
+</audio></td>
     </tr>
     <tr>
       <th>6</th>
@@ -160,6 +176,9 @@ Link to dataset coming soon.
 </audio></td>
       <td><audio id="audio-small" controls>
     <source src="wavs/tts_paper/026.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_model2/model_2_Electricity_0001.wav" type="audio/wav">
 </audio></td>
     </tr>
     <tr>
@@ -170,6 +189,9 @@ Link to dataset coming soon.
       <td><audio id="audio-small" controls>
     <source src="wavs/tts_paper/030.wav" type="audio/wav">
 </audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_model2/model_2_Gedera_0019.wav" type="audio/wav">
+</audio></td>
     </tr>
     <tr>
       <th>8</th>
@@ -178,6 +200,9 @@ Link to dataset coming soon.
 </audio></td>
       <td><audio id="audio-small" controls>
     <source src="wavs/tts_paper/042.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_model2/model_2_Hashlama112_0024.wav" type="audio/wav">
 </audio></td>
     </tr>
     <tr>
@@ -188,6 +213,9 @@ Link to dataset coming soon.
       <td><audio id="audio-small" controls>
     <source src="wavs/tts_paper/044.wav" type="audio/wav">
 </audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_model2/model_2_Hashlama117_0009.wav" type="audio/wav">
+</audio></td>
     </tr>
     <tr>
       <th>10</th>
@@ -196,6 +224,9 @@ Link to dataset coming soon.
 </audio></td>
       <td><audio id="audio-small" controls>
     <source src="wavs/tts_paper/057.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_model2/model_2_Hedva_0035.wav" type="audio/wav">
 </audio></td>
     </tr>
     <tr>
@@ -206,6 +237,9 @@ Link to dataset coming soon.
       <td><audio id="audio-small" controls>
     <source src="wavs/tts_paper/060.wav" type="audio/wav">
 </audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_model2/model_2_Hungary1_0068.wav" type="audio/wav">
+</audio></td>
     </tr>
     <tr>
       <th>12</th>
@@ -214,6 +248,9 @@ Link to dataset coming soon.
 </audio></td>
       <td><audio id="audio-small" controls>
     <source src="wavs/tts_paper/069.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_model2/model_2_Lod_0053.wav" type="audio/wav">
 </audio></td>
     </tr>
     <tr>
@@ -224,6 +261,9 @@ Link to dataset coming soon.
       <td><audio id="audio-small" controls>
     <source src="wavs/tts_paper/070.wav" type="audio/wav">
 </audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_model2/model_2_Lod_0065.wav" type="audio/wav">
+</audio></td>
     </tr>
     <tr>
       <th>14</th>
@@ -232,6 +272,9 @@ Link to dataset coming soon.
 </audio></td>
       <td><audio id="audio-small" controls>
     <source src="wavs/tts_paper/072.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_model2/model_2_Meat_0039.wav" type="audio/wav">
 </audio></td>
     </tr>
     <tr>
@@ -242,6 +285,9 @@ Link to dataset coming soon.
       <td><audio id="audio-small" controls>
     <source src="wavs/tts_paper/088.wav" type="audio/wav">
 </audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_model2/model_2_Robo Shaul 1_0017.wav" type="audio/wav">
+</audio></td>
     </tr>
     <tr>
       <th>16</th>
@@ -251,6 +297,9 @@ Link to dataset coming soon.
       <td><audio id="audio-small" controls>
     <source src="wavs/tts_paper/090.wav" type="audio/wav">
 </audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_model2/model_2_Robo Shaul 1_0065.wav" type="audio/wav">
+</audio></td>
     </tr>
     <tr>
       <th>17</th>
@@ -259,6 +308,9 @@ Link to dataset coming soon.
 </audio></td>
       <td><audio id="audio-small" controls>
     <source src="wavs/tts_paper/092.wav" type="audio/wav">
+</audio></td>
+      <td><audio id="audio-small" controls>
+    <source src="wavs/tts_model2/model_2_Robo Shaul 2_0040.wav" type="audio/wav">
 </audio></td>
     </tr>
   </tbody>
