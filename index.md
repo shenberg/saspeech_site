@@ -97,6 +97,8 @@ We present SASPEECH, a 30-hour single speaker Hebrew corpus accompanied by a tex
 
 Link to dataset coming soon.
 
+![Model Architecture Diagram](img/RoboShaulDiagram_for_website.svg)
+
 ## Dataset examples
 
 <table class="dataframe tg">
