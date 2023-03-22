@@ -19,7 +19,8 @@
     font-weight: bold;
     vertical-align: middle;
     horizontal-align: center;
-    white-space: nowrap;
+    /*white-space: nowrap;*/
+    white-space: normal;
     text-align: center
   }
 
@@ -105,6 +106,7 @@ Link to dataset coming soon.
   <thead>
     <tr style="text-align: center;">
       <th></th>
+      <th>Transcription (with diacritics)</th>
       <th>Original</th>
       <th>OverFlow (7350 steps) + HiFi-GAN</th>
       <th>OverFlow (more training) + HiFi-GAN</th>
@@ -113,6 +115,7 @@ Link to dataset coming soon.
   <tbody>
     <tr>
       <th>1</th>
+      <td>זוֹ הָיְיתָה אֲוִוירָה מְטוֹרֶפֶת שֶׁל סוֹף הָעוֹלָם.</td>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Mom3_0007.wav" type="audio/wav">
 </audio></td>
@@ -125,6 +128,7 @@ Link to dataset coming soon.
     </tr>
     <tr>
       <th>2</th>
+      <td>בְּשָׁנָה וָחֵצִי הָאַחֲרוֹנוֹת יָצָא לִי לֶאֱכוֹל כָּאן בְּאַרְהָ״ב אֶת הַמּוּצָרִים שֶׁל שְׁתֵּי הַחֲבָרוֹת</td>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Meat_0089.wav" type="audio/wav">
 </audio></td>
@@ -137,6 +141,7 @@ Link to dataset coming soon.
     </tr>
     <tr>
       <th>3</th>
+      <td>הַיי, אֲנִי שָׁאוּל אַמֶסְטֶרְדְמְסְקִי וְאַתֶּם מַאֲזִינִים לִחְיוֹת כִּיס.</td>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Aharon Fogel_0002.wav" type="audio/wav">
 </audio></td>
@@ -149,6 +154,7 @@ Link to dataset coming soon.
     </tr>
     <tr>
       <th>4</th>
+      <td>הוּא רוֹצֶה שֶׁאֲנִי אֶתֵּן דּוּגְמָא</td>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Corona4_0007.wav" type="audio/wav">
 </audio></td>
@@ -161,6 +167,7 @@ Link to dataset coming soon.
     </tr>
     <tr>
       <th>5</th>
+      <td>וְהוּא אוֹמֵר בְּעֶצֶם דָּבָר אֶחָד וְאֶחָד בִּלְבַד מָה הַיְּכוֹלֶת אוֹ מָה הַסִּיכּוּן שֶׁמֶּמְשָׁלָה כָּלְשֶׁהִי תַּחֲזִיר אֶת הַהַשְׁקָעָה אוֹ יוֹתֵר נָכוֹן</td>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Credit Rating_0006.wav" type="audio/wav">
 </audio></td>
@@ -173,6 +180,7 @@ Link to dataset coming soon.
     </tr>
     <tr>
       <th>6</th>
+      <td>הַיי, אַתֶּם עַל חַיוֹת כִּיס, אֲנִי שָׁאוּל אַמֶסְטֶרְדְמְסְקִי, וְהָאִישׁ שֶׁאַתֶּם שׁוֹמְעִים מְדַבֵּר בָּרֶקַע הוּא שִׁיקִי פִּישֵּׁר, וַאֲנִי לֹא יָכוֹל לְגַלּוֹת לָכֶם אֵיפֹה בְּדִיּוּק אֲנַחְנוּ נִמְצָאִים.</td>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Electricity_0001.wav" type="audio/wav">
 </audio></td>
@@ -185,6 +193,7 @@ Link to dataset coming soon.
     </tr>
     <tr>
       <th>7</th>
+      <td>נוּי סִיפְּרָה לָנוּ שֶׁהַבְּנִיָּיה עַצְמָהּ הִתְקַדְמָה מַהֵר, וְשֶׁהַבִּנְיָינִים יִהְיוּ מוּכָנִים בְּקָרוֹב לְאִיכְלוּס, בִּסְבִיבוֹת אַפְּרִיל. סוּג שֶׁל.</td>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Gedera_0019.wav" type="audio/wav">
 </audio></td>
@@ -197,6 +206,7 @@ Link to dataset coming soon.
     </tr>
     <tr>
       <th>8</th>
+      <td>וְאַחֲרֵי זֶה אֲנַחְנוּ צְרִיכִים לְפָחוֹת עוֹד חוֹדְשַׁיִים-שְׁלוֹשָׁה, עַד שֶׁכָּל הַסִּיפּוּר הַזֶּה עוֹבֵר בַּמֶּמְשָׁלָה וּבַכְּנֶסֶת.</td>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Hashlama112_0024.wav" type="audio/wav">
 </audio></td>
@@ -209,6 +219,7 @@ Link to dataset coming soon.
     </tr>
     <tr>
       <th>9</th>
+      <td>אָז הַיּוֹם בְּחַיוֹת כִּיס, פֶּרֶק בָּזָק.</td>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Hashlama117_0009.wav" type="audio/wav">
 </audio></td>
@@ -221,6 +232,7 @@ Link to dataset coming soon.
     </tr>
     <tr>
       <th>10</th>
+      <td>גּוּפִים שֶׁיְּכוֹלִים לְהִתְחַבֵּר וּלְהַצִּיעַ לָכֶם שֵׁירוּתִים פִינַנְסִיִּים מִתְקַדְּמִים יוֹתֵר עַל בְּסִיס הַנְּתוּנִים שֶׁלָּכֶם וְהַמֵּידָע שֶׁהַיּוֹם סָגוּר רַק בִּידֵי הַבַּנְק שֶׁלָּכֶם</td>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Hedva_0035.wav" type="audio/wav">
 </audio></td>
@@ -233,6 +245,7 @@ Link to dataset coming soon.
     </tr>
     <tr>
       <th>11</th>
+      <td>מָה שֶׁבְּהַגְדָּרָה מַשְׁאִיר אֶת הַכַּלְכָּלָה הַהוּנְגָּרִית מֵאָחוֹר, אֲפִילּוּ בְּיַחַס לִמְדִינוֹת כְּמוֹ פּוֹלִין</td>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Hungary1_0068.wav" type="audio/wav">
 </audio></td>
@@ -245,6 +258,7 @@ Link to dataset coming soon.
     </tr>
     <tr>
       <th>12</th>
+      <td>הַמַּטָּרָה שֶׁל הַמִּבְצָע הָיְיתָה לִכְבּוֹשׁ אַרְבַּע עָרִים עַרְבִיּוֹת, לוֹד, רַמְלָה, לִטְרוֹן וְרָמַאלְלָה</td>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Lod_0053.wav" type="audio/wav">
 </audio></td>
@@ -257,6 +271,7 @@ Link to dataset coming soon.
     </tr>
     <tr>
       <th>13</th>
+      <td>וְאִם אַתֶּם שׁוֹאֲלִים אֶת עַצְמְכֶם מָה זֶה אוֹמֵר גִ&#x27;ינְדֶס, אָז גַּם אֲנִי שָׁאַלְתִּי.</td>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Lod_0065.wav" type="audio/wav">
 </audio></td>
@@ -269,6 +284,7 @@ Link to dataset coming soon.
     </tr>
     <tr>
       <th>14</th>
+      <td>אָז בֶּאֱמֶת כַּמָּה הַמָּזוֹן שֶׁאֲנַחְנוּ אוֹכְלִים תּוֹרֵם לְמַשְׁבֵּר הָאַקְלִים?</td>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Meat_0039.wav" type="audio/wav">
 </audio></td>
@@ -281,6 +297,7 @@ Link to dataset coming soon.
     </tr>
     <tr>
       <th>15</th>
+      <td>עַד כַּמָּה זֶה בִּכְלָל אֶפְשָׁרִי לִיצוֹר רוּבּוֹ שָׁאוּל כָּזֶה?</td>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Robo Shaul 1_0017.wav" type="audio/wav">
 </audio></td>
@@ -293,6 +310,7 @@ Link to dataset coming soon.
     </tr>
     <tr>
       <th>16</th>
+      <td>גַּם עַל זֶה לֹא חָשַׁבְתִּי בִּכְלָל. אָז עָשִׂיתִי אֶת מָה שֶׁאֲנִי בְּדֶרֶךְ כְּלָל עוֹשֶׂה כְּשֶׁמַּתְקִילִים אוֹתִי בַּשְּׁאֵלָה שֶׁלֹּא חָשַׁבְתִּי עָלֶיהָ.</td>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Robo Shaul 1_0065.wav" type="audio/wav">
 </audio></td>
@@ -305,6 +323,7 @@ Link to dataset coming soon.
     </tr>
     <tr>
       <th>17</th>
+      <td>וַאֲנַחְנוּ נִבְדּוֹק הַאִם אַתֶּם וְאֶתֶּן שַׂמְתֶּם לֵב. כָּכָה אֲנִי מְדַמְיֵין אֶת הֶעָתִיד שֶׁלִּי מַגְנִיב וְגַם מַקְרִיפּ</td>
       <td><audio id="audio-small" controls>
     <source src="wavs/gt/Robo Shaul 2_0040.wav" type="audio/wav">
 </audio></td>
