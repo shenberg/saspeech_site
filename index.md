@@ -106,7 +106,7 @@ Link to dataset coming soon.
   <thead>
     <tr style="text-align: center;">
       <th></th>
-      <th>Transcription (with diacritics)</th>
+      <th>Input: Transcription with diacritics</th>
       <th>Original</th>
       <th>OverFlow (7350 steps) + HiFi-GAN</th>
       <th>OverFlow (more training) + HiFi-GAN</th>
