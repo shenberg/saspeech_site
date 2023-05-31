@@ -110,7 +110,7 @@ Link to dataset coming soon.
       <th>Input: Transcription with diacritics</th>
       <th>Original</th>
       <th>OverFlow (7350 steps) + HiFi-GAN</th>
-      <th>OverFlow (more training) + HiFi-GAN</th>
+      <th>OverFlow (more training (~21k steps)) + HiFi-GAN</th>
     </tr>
   </thead>
   <tbody>
