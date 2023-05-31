@@ -97,8 +97,6 @@ audio {
 
 We present SASPEECH, a 30-hour single speaker Hebrew corpus accompanied by a text-to-speech (TTS) benchmark. It is the first large-scale high-quality open dataset of its kind. We believe our work will facilitate future generative Hebrew tools and low resource language research. The corpus is publicly accessible at [https://www.openslr.org/134](https://www.openslr.org/134). Code for the baseline TTS system available at [https://github.com/shenberg/TTS/](https://github.com/shenberg/TTS/)
 
-Link to dataset coming soon.
-
 ![Model Architecture Diagram](img/RoboShaulDiagram_for_website.svg)
 
 ## Dataset examples
